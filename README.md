@@ -1,5 +1,5 @@
 # PRODIGY_AD_01
-markdown
+
 # Android Calculator App
 
 This is a simple calculator Android application developed using Kotlin in Android Studio.
