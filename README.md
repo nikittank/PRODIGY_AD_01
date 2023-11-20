@@ -1,5 +1,5 @@
 # PRODIGY_AD_01
-```markdown
+markdown
 # Android Calculator App
 
 This is a simple calculator Android application developed using Kotlin in Android Studio.
@@ -20,9 +20,8 @@ The Calculator app allows users to perform basic arithmetic calculations on thei
 ### Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/nikittank/PRODIGY_AD_01.git
-   ```
+
 
 2. Open the project in Android Studio:
    - Launch Android Studio.
@@ -46,5 +45,6 @@ The Calculator app allows users to perform basic arithmetic calculations on thei
 - Android Studio
 
 ## Screenshots
+![CALC](https://github.com/nikittank/PRODIGY_AD_01/assets/91609970/6deac460-a21b-4079-9ff9-9295dc87b109)
 
-![image](https://github.com/nikittank/PRODIGY_AD_01/assets/91609970/f5422c24-b77d-4361-95f3-594c5607a08f)
+
